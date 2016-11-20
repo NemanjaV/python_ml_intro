@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21591px" height="9675px" viewBox="0 0 21591 9675" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="21590" height="27940"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="train_test_split_matrix" transform="translate(0.000000, -1035.000000)">
+            <g id="g102" transform="translate(0.973630, 0.744140)">
+                <g id="g104">
+                    <g id="id1-Clipped">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="rect7"></g>
+                        <g id="id1" mask="url(#mask-2)">
+                            <g transform="translate(257.000000, 1193.000000)" id="g107">
+                                <g>
+                                    <g id="g109" transform="translate(3575.000000, 254.000000)" stroke-width="53" stroke="#000000">
+                                        <g id="id3">
+                                            <path d="M508,0 C508,0 0,2286 0,4572 C0,7112 508,8890 508,8890" id="path112"></path>
+                                        </g>
+                                    </g>
+                                    <g id="g114" transform="translate(12457.000000, 254.000000)" stroke-width="53" stroke="#000000">
+                                        <g id="id4">
+                                            <path d="M0,0 C0,0 508,2286 508,4572 C508,7112 0,8890 0,8890" id="path117"></path>
+                                        </g>
+                                    </g>
+                                    <g id="g119" transform="translate(0.000000, 3644.000000)" font-size="1693" font-family="Helvetica" fill="#000000" font-weight="normal">
+                                        <g id="id5">
+                                            <text id="tspan128">
+                                                <tspan x="0" y="1643">X =</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="g130" transform="translate(4312.000000, 607.000000)">
+                                        <g id="g132">
+                                            <polygon id="path134" fill="#FFFFFF" points="0 0 1579 0 1579 1219 0 1219"></polygon>
+                                            <text id="tspan142" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="706">1.1</tspan>
+                                            </text>
+                                            <polygon id="path144" fill="#FFFFFF" points="1579 0 3158 0 3158 1219 1579 1219"></polygon>
+                                            <text id="tspan152" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="1829" y="706">2.2</tspan>
+                                            </text>
+                                            <polygon id="path154" fill="#FFFFFF" points="3158 0 4737 0 4737 1219 3158 1219"></polygon>
+                                            <text id="tspan162" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="3408" y="706">3.4</tspan>
+                                            </text>
+                                            <polygon id="path164" fill="#FFFFFF" points="4737 0 6316 0 6316 1219 4737 1219"></polygon>
+                                            <text id="tspan172" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="4987" y="706">5.6</tspan>
+                                            </text>
+                                            <polygon id="path174" fill="#FFFFFF" points="6316 0 7890 0 7890 1219 6316 1219"></polygon>
+                                            <text id="tspan182" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="6566" y="706">1.0</tspan>
+                                            </text>
+                                            <polygon id="path184" fill="#FFFFFF" points="0 1219 1579 1219 1579 2438 0 2438"></polygon>
+                                            <text id="tspan192" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="1925">6.7</tspan>
+                                            </text>
+                                            <polygon id="path194" fill="#FFFFFF" points="1579 1219 3158 1219 3158 2438 1579 2438"></polygon>
+                                            <text id="tspan202" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="1829" y="1925">0.5</tspan>
+                                            </text>
+                                            <polygon id="path204" fill="#FFFFFF" points="3158 1219 4737 1219 4737 2438 3158 2438"></polygon>
+                                            <text id="tspan212" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="3408" y="1925">0.4</tspan>
+                                            </text>
+                                            <polygon id="path214" fill="#FFFFFF" points="4737 1219 6316 1219 6316 2438 4737 2438"></polygon>
+                                            <text id="tspan222" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="4987" y="1925">2.6</tspan>
+                                            </text>
+                                            <polygon id="path224" fill="#FFFFFF" points="6316 1219 7890 1219 7890 2438 6316 2438"></polygon>
+                                            <text id="tspan232" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="6566" y="1925">1.6</tspan>
+                                            </text>
+                                            <polygon id="path234" fill="#FFFFFF" points="0 2438 1579 2438 1579 3657 0 3657"></polygon>
+                                            <text id="tspan242" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="3144">2.4</tspan>
+                                            </text>
+                                            <polygon id="path244" fill="#FFFFFF" points="1579 2438 3158 2438 3158 3657 1579 3657"></polygon>
+                                            <text id="tspan252" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="1829" y="3144">9.3</tspan>
+                                            </text>
+                                            <polygon id="path254" fill="#FFFFFF" points="3158 2438 4737 2438 4737 3657 3158 3657"></polygon>
+                                            <text id="tspan262" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="3408" y="3144">7.3</tspan>
+                                            </text>
+                                            <polygon id="path264" fill="#FFFFFF" points="4737 2438 6316 2438 6316 3657 4737 3657"></polygon>
+                                            <text id="tspan272" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="4987" y="3144">6.4</tspan>
+                                            </text>
+                                            <polygon id="path274" fill="#FFFFFF" points="6316 2438 7890 2438 7890 3657 6316 3657"></polygon>
+                                            <text id="tspan282" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="6566" y="3144">2.8</tspan>
+                                            </text>
+                                            <polygon id="path284" fill="#FFFFFF" points="0 3657 1579 3657 1579 4876 0 4876"></polygon>
+                                            <text id="tspan292" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="4363">1.5</tspan>
+                                            </text>
+                                            <polygon id="path294" fill="#FFFFFF" points="1579 3657 3158 3657 3158 4876 1579 4876"></polygon>
+                                            <text id="tspan302" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="1829" y="4363">0.0</tspan>
+                                            </text>
+                                            <polygon id="path304" fill="#FFFFFF" points="3158 3657 4737 3657 4737 4876 3158 4876"></polygon>
+                                            <text id="tspan312" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="3408" y="4363">4.3</tspan>
+                                            </text>
+                                            <polygon id="path314" fill="#FFFFFF" points="4737 3657 6316 3657 6316 4876 4737 4876"></polygon>
+                                            <text id="tspan322" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="4987" y="4363">8.3</tspan>
+                                            </text>
+                                            <polygon id="path324" fill="#FFFFFF" points="6316 3657 7890 3657 7890 4876 6316 4876"></polygon>
+                                            <text id="tspan332" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="6566" y="4363">3.4</tspan>
+                                            </text>
+                                            <polygon id="path334" fill="#FFFFFF" points="0 4876 1579 4876 1579 6095 0 6095"></polygon>
+                                            <text id="tspan342" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="5582">0.5</tspan>
+                                            </text>
+                                            <polygon id="path344" fill="#FFFFFF" points="1579 4876 3158 4876 3158 6095 1579 6095"></polygon>
+                                            <text id="tspan352" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="1829" y="5582">3.5</tspan>
+                                            </text>
+                                            <polygon id="path354" fill="#FFFFFF" points="3158 4876 4737 4876 4737 6095 3158 6095"></polygon>
+                                            <text id="tspan362" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="3408" y="5582">8.1</tspan>
+                                            </text>
+                                            <polygon id="path364" fill="#FFFFFF" points="4737 4876 6316 4876 6316 6095 4737 6095"></polygon>
+                                            <text id="tspan372" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="4987" y="5582">3.6</tspan>
+                                            </text>
+                                            <polygon id="path374" fill="#FFFFFF" points="6316 4876 7890 4876 7890 6095 6316 6095"></polygon>
+                                            <text id="tspan382" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="6566" y="5582">4.6</tspan>
+                                            </text>
+                                            <polygon id="path384" fill="#FFFFFF" points="0 6095 1579 6095 1579 7314 0 7314"></polygon>
+                                            <text id="tspan392" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="6801">5.1</tspan>
+                                            </text>
+                                            <polygon id="path394" fill="#FFFFFF" points="1579 6095 3158 6095 3158 7314 1579 7314"></polygon>
+                                            <text id="tspan402" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="1829" y="6801">9.7</tspan>
+                                            </text>
+                                            <polygon id="path404" fill="#FFFFFF" points="3158 6095 4737 6095 4737 7314 3158 7314"></polygon>
+                                            <text id="tspan412" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="3408" y="6801">3.5</tspan>
+                                            </text>
+                                            <polygon id="path414" fill="#FFFFFF" points="4737 6095 6316 6095 6316 7314 4737 7314"></polygon>
+                                            <text id="tspan422" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="4987" y="6801">7.9</tspan>
+                                            </text>
+                                            <polygon id="path424" fill="#FFFFFF" points="6316 6095 7890 6095 7890 7314 6316 7314"></polygon>
+                                            <text id="tspan432" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="6566" y="6801">5.1</tspan>
+                                            </text>
+                                            <polygon id="path434" fill="#FFFFFF" points="0 7314 1579 7314 1579 8536 0 8536"></polygon>
+                                            <text id="tspan442" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="8020">3.7</tspan>
+                                            </text>
+                                            <polygon id="path444" fill="#FFFFFF" points="1579 7314 3158 7314 3158 8536 1579 8536"></polygon>
+                                            <text id="tspan452" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="1829" y="8020">7.8</tspan>
+                                            </text>
+                                            <polygon id="path454" fill="#FFFFFF" points="3158 7314 4737 7314 4737 8536 3158 8536"></polygon>
+                                            <text id="tspan462" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="3408" y="8020">2.6</tspan>
+                                            </text>
+                                            <polygon id="path464" fill="#FFFFFF" points="4737 7314 6316 7314 6316 8536 4737 8536"></polygon>
+                                            <text id="tspan472" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="4987" y="8020">3.2</tspan>
+                                            </text>
+                                            <polygon id="path474" fill="#FFFFFF" points="6316 7314 7890 7314 7890 8536 6316 8536"></polygon>
+                                            <text id="tspan482" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="6566" y="8020">6.3</tspan>
+                                            </text>
+                                            <path d="M0,0 L0,1219" id="path484" stroke="#FFFFFF"></path>
+                                            <path d="M1579,0 L1579,1219" id="path486" stroke="#FFFFFF"></path>
+                                            <path d="M0,0 L1579,0" id="path488" stroke="#FFFFFF"></path>
+                                            <path d="M1579,0 L1579,1219" id="path490" stroke="#FFFFFF"></path>
+                                            <path d="M3158,0 L3158,1219" id="path492" stroke="#FFFFFF"></path>
+                                            <path d="M1579,0 L3158,0" id="path494" stroke="#FFFFFF"></path>
+                                            <path d="M3158,0 L3158,1219" id="path496" stroke="#FFFFFF"></path>
+                                            <path d="M4737,0 L4737,1219" id="path498" stroke="#FFFFFF"></path>
+                                            <path d="M3158,0 L4737,0" id="path500" stroke="#FFFFFF"></path>
+                                            <path d="M4737,0 L4737,1219" id="path502" stroke="#FFFFFF"></path>
+                                            <path d="M6316,0 L6316,1219" id="path504" stroke="#FFFFFF"></path>
+                                            <path d="M4737,0 L6316,0" id="path506" stroke="#FFFFFF"></path>
+                                            <path d="M6316,0 L6316,1219" id="path508" stroke="#FFFFFF"></path>
+                                            <path d="M7890,0 L7890,1219" id="path510" stroke="#FFFFFF"></path>
+                                            <path d="M6316,0 L7890,0" id="path512" stroke="#FFFFFF"></path>
+                                            <path d="M0,1219 L0,2438" id="path514" stroke="#FFFFFF"></path>
+                                            <path d="M1579,1219 L1579,2438" id="path516" stroke="#FFFFFF"></path>
+                                            <path d="M0,1219 L1579,1219" id="path518" stroke="#FFFFFF"></path>
+                                            <path d="M1579,1219 L1579,2438" id="path520" stroke="#FFFFFF"></path>
+                                            <path d="M3158,1219 L3158,2438" id="path522" stroke="#FFFFFF"></path>
+                                            <path d="M1579,1219 L3158,1219" id="path524" stroke="#FFFFFF"></path>
+                                            <path d="M3158,1219 L3158,2438" id="path526" stroke="#FFFFFF"></path>
+                                            <path d="M4737,1219 L4737,2438" id="path528" stroke="#FFFFFF"></path>
+                                            <path d="M3158,1219 L4737,1219" id="path530" stroke="#FFFFFF"></path>
+                                            <path d="M4737,1219 L4737,2438" id="path532" stroke="#FFFFFF"></path>
+                                            <path d="M6316,1219 L6316,2438" id="path534" stroke="#FFFFFF"></path>
+                                            <path d="M4737,1219 L6316,1219" id="path536" stroke="#FFFFFF"></path>
+                                            <path d="M6316,1219 L6316,2438" id="path538" stroke="#FFFFFF"></path>
+                                            <path d="M7890,1219 L7890,2438" id="path540" stroke="#FFFFFF"></path>
+                                            <path d="M6316,1219 L7890,1219" id="path542" stroke="#FFFFFF"></path>
+                                            <path d="M0,2438 L0,3657" id="path544" stroke="#FFFFFF"></path>
+                                            <path d="M1579,2438 L1579,3657" id="path546" stroke="#FFFFFF"></path>
+                                            <path d="M0,2438 L1579,2438" id="path548" stroke="#FFFFFF"></path>
+                                            <path d="M1579,2438 L1579,3657" id="path550" stroke="#FFFFFF"></path>
+                                            <path d="M3158,2438 L3158,3657" id="path552" stroke="#FFFFFF"></path>
+                                            <path d="M1579,2438 L3158,2438" id="path554" stroke="#FFFFFF"></path>
+                                            <path d="M3158,2438 L3158,3657" id="path556" stroke="#FFFFFF"></path>
+                                            <path d="M4737,2438 L4737,3657" id="path558" stroke="#FFFFFF"></path>
+                                            <path d="M3158,2438 L4737,2438" id="path560" stroke="#FFFFFF"></path>
+                                            <path d="M4737,2438 L4737,3657" id="path562" stroke="#FFFFFF"></path>
+                                            <path d="M6316,2438 L6316,3657" id="path564" stroke="#FFFFFF"></path>
+                                            <path d="M4737,2438 L6316,2438" id="path566" stroke="#FFFFFF"></path>
+                                            <path d="M6316,2438 L6316,3657" id="path568" stroke="#FFFFFF"></path>
+                                            <path d="M7890,2438 L7890,3657" id="path570" stroke="#FFFFFF"></path>
+                                            <path d="M6316,2438 L7890,2438" id="path572" stroke="#FFFFFF"></path>
+                                            <path d="M0,3657 L0,4876" id="path574" stroke="#FFFFFF"></path>
+                                            <path d="M1579,3657 L1579,4876" id="path576" stroke="#FFFFFF"></path>
+                                            <path d="M0,3657 L1579,3657" id="path578" stroke="#FFFFFF"></path>
+                                            <path d="M1579,3657 L1579,4876" id="path580" stroke="#FFFFFF"></path>
+                                            <path d="M3158,3657 L3158,4876" id="path582" stroke="#FFFFFF"></path>
+                                            <path d="M1579,3657 L3158,3657" id="path584" stroke="#FFFFFF"></path>
+                                            <path d="M3158,3657 L3158,4876" id="path586" stroke="#FFFFFF"></path>
+                                            <path d="M4737,3657 L4737,4876" id="path588" stroke="#FFFFFF"></path>
+                                            <path d="M3158,3657 L4737,3657" id="path590" stroke="#FFFFFF"></path>
+                                            <path d="M4737,3657 L4737,4876" id="path592" stroke="#FFFFFF"></path>
+                                            <path d="M6316,3657 L6316,4876" id="path594" stroke="#FFFFFF"></path>
+                                            <path d="M4737,3657 L6316,3657" id="path596" stroke="#FFFFFF"></path>
+                                            <path d="M6316,3657 L6316,4876" id="path598" stroke="#FFFFFF"></path>
+                                            <path d="M7890,3657 L7890,4876" id="path600" stroke="#FFFFFF"></path>
+                                            <path d="M6316,3657 L7890,3657" id="path602" stroke="#FFFFFF"></path>
+                                            <path d="M0,4876 L0,6095" id="path604" stroke="#FFFFFF"></path>
+                                            <path d="M1579,4876 L1579,6095" id="path606" stroke="#FFFFFF"></path>
+                                            <path d="M0,4876 L1579,4876" id="path608" stroke="#FFFFFF"></path>
+                                            <path d="M1579,4876 L1579,6095" id="path610" stroke="#FFFFFF"></path>
+                                            <path d="M3158,4876 L3158,6095" id="path612" stroke="#FFFFFF"></path>
+                                            <path d="M1579,4876 L3158,4876" id="path614" stroke="#FFFFFF"></path>
+                                            <path d="M3158,4876 L3158,6095" id="path616" stroke="#FFFFFF"></path>
+                                            <path d="M4737,4876 L4737,6095" id="path618" stroke="#FFFFFF"></path>
+                                            <path d="M3158,4876 L4737,4876" id="path620" stroke="#FFFFFF"></path>
+                                            <path d="M4737,4876 L4737,6095" id="path622" stroke="#FFFFFF"></path>
+                                            <path d="M6316,4876 L6316,6095" id="path624" stroke="#FFFFFF"></path>
+                                            <path d="M4737,4876 L6316,4876" id="path626" stroke="#FFFFFF"></path>
+                                            <path d="M6316,4876 L6316,6095" id="path628" stroke="#FFFFFF"></path>
+                                            <path d="M7890,4876 L7890,6095" id="path630" stroke="#FFFFFF"></path>
+                                            <path d="M6316,4876 L7890,4876" id="path632" stroke="#FFFFFF"></path>
+                                            <path d="M0,6095 L0,7314" id="path634" stroke="#FFFFFF"></path>
+                                            <path d="M1579,6095 L1579,7314" id="path636" stroke="#FFFFFF"></path>
+                                            <path d="M0,6095 L1579,6095" id="path638" stroke="#FFFFFF"></path>
+                                            <path d="M1579,6095 L1579,7314" id="path640" stroke="#FFFFFF"></path>
+                                            <path d="M3158,6095 L3158,7314" id="path642" stroke="#FFFFFF"></path>
+                                            <path d="M1579,6095 L3158,6095" id="path644" stroke="#FFFFFF"></path>
+                                            <path d="M3158,6095 L3158,7314" id="path646" stroke="#FFFFFF"></path>
+                                            <path d="M4737,6095 L4737,7314" id="path648" stroke="#FFFFFF"></path>
+                                            <path d="M3158,6095 L4737,6095" id="path650" stroke="#FFFFFF"></path>
+                                            <path d="M4737,6095 L4737,7314" id="path652" stroke="#FFFFFF"></path>
+                                            <path d="M6316,6095 L6316,7314" id="path654" stroke="#FFFFFF"></path>
+                                            <path d="M4737,6095 L6316,6095" id="path656" stroke="#FFFFFF"></path>
+                                            <path d="M6316,6095 L6316,7314" id="path658" stroke="#FFFFFF"></path>
+                                            <path d="M7890,6095 L7890,7314" id="path660" stroke="#FFFFFF"></path>
+                                            <path d="M6316,6095 L7890,6095" id="path662" stroke="#FFFFFF"></path>
+                                            <path d="M0,7314 L0,8536" id="path664" stroke="#FFFFFF"></path>
+                                            <path d="M0,8536 L1579,8536" id="path666" stroke="#FFFFFF"></path>
+                                            <path d="M1579,7314 L1579,8536" id="path668" stroke="#FFFFFF"></path>
+                                            <path d="M0,7314 L1579,7314" id="path670" stroke="#FFFFFF"></path>
+                                            <path d="M1579,7314 L1579,8536" id="path672" stroke="#FFFFFF"></path>
+                                            <path d="M1579,8536 L3158,8536" id="path674" stroke="#FFFFFF"></path>
+                                            <path d="M3158,7314 L3158,8536" id="path676" stroke="#FFFFFF"></path>
+                                            <path d="M1579,7314 L3158,7314" id="path678" stroke="#FFFFFF"></path>
+                                            <path d="M3158,7314 L3158,8536" id="path680" stroke="#FFFFFF"></path>
+                                            <path d="M3158,8536 L4737,8536" id="path682" stroke="#FFFFFF"></path>
+                                            <path d="M4737,7314 L4737,8536" id="path684" stroke="#FFFFFF"></path>
+                                            <path d="M3158,7314 L4737,7314" id="path686" stroke="#FFFFFF"></path>
+                                            <path d="M4737,7314 L4737,8536" id="path688" stroke="#FFFFFF"></path>
+                                            <path d="M4737,8536 L6316,8536" id="path690" stroke="#FFFFFF"></path>
+                                            <path d="M6316,7314 L6316,8536" id="path692" stroke="#FFFFFF"></path>
+                                            <path d="M4737,7314 L6316,7314" id="path694" stroke="#FFFFFF"></path>
+                                            <path d="M6316,7314 L6316,8536" id="path696" stroke="#FFFFFF"></path>
+                                            <path d="M6316,8536 L7890,8536" id="path698" stroke="#FFFFFF"></path>
+                                            <path d="M7890,7314 L7890,8536" id="path700" stroke="#FFFFFF"></path>
+                                            <path d="M6316,7314 L7890,7314" id="path702" stroke="#FFFFFF"></path>
+                                        </g>
+                                    </g>
+                                    <g id="g704" transform="translate(17983.000000, 250.000000)" stroke-width="53" stroke="#000000">
+                                        <g id="id6">
+                                            <path d="M508,0 C508,0 0,2286 0,4572 C0,7112 508,8890 508,8890" id="path707"></path>
+                                        </g>
+                                    </g>
+                                    <g id="g709" transform="translate(20523.000000, 250.000000)" stroke-width="53" stroke="#000000">
+                                        <g id="id7">
+                                            <path d="M0,0 C0,0 508,2286 508,4572 C508,7112 0,8890 0,8890" id="path712"></path>
+                                        </g>
+                                    </g>
+                                    <g id="g714" transform="translate(15240.000000, 3640.000000)" font-size="1693" font-family="Helvetica" fill="#000000" font-weight="normal">
+                                        <g id="id8">
+                                            <text id="tspan723">
+                                                <tspan x="0" y="1643">y =</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="g725" transform="translate(18823.000000, 612.000000)">
+                                        <g id="g727">
+                                            <polygon id="path729" fill="#FFFFFF" points="0 0 1578 0 1578 1219 0 1219"></polygon>
+                                            <text id="tspan737" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="706">1.6</tspan>
+                                            </text>
+                                            <polygon id="path739" fill="#FFFFFF" points="0 1219 1578 1219 1578 2438 0 2438"></polygon>
+                                            <text id="tspan747" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="1925">2.7</tspan>
+                                            </text>
+                                            <polygon id="path749" fill="#FFFFFF" points="0 2438 1578 2438 1578 3657 0 3657"></polygon>
+                                            <text id="tspan757" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="3144">4.4</tspan>
+                                            </text>
+                                            <polygon id="path759" fill="#FFFFFF" points="0 3657 1578 3657 1578 4876 0 4876"></polygon>
+                                            <text id="tspan767" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="4363">0.5</tspan>
+                                            </text>
+                                            <polygon id="path769" fill="#FFFFFF" points="0 4876 1578 4876 1578 6095 0 6095"></polygon>
+                                            <text id="tspan777" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="5582">0.2</tspan>
+                                            </text>
+                                            <polygon id="path779" fill="#FFFFFF" points="0 6095 1578 6095 1578 7314 0 7314"></polygon>
+                                            <text id="tspan787" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="6801">5.6</tspan>
+                                            </text>
+                                            <polygon id="path789" fill="#FFFFFF" points="0 7314 1578 7314 1578 8536 0 8536"></polygon>
+                                            <text id="tspan797" fill="#000000" font-family="Helvetica" font-size="635" font-weight="normal">
+                                                <tspan x="250" y="8020">6.7</tspan>
+                                            </text>
+                                            <path d="M0,0 L0,1219" id="path799" stroke="#FFFFFF"></path>
+                                            <path d="M1578,0 L1578,1219" id="path801" stroke="#FFFFFF"></path>
+                                            <path d="M0,0 L1578,0" id="path803" stroke="#FFFFFF"></path>
+                                            <path d="M0,1219 L0,2438" id="path805" stroke="#FFFFFF"></path>
+                                            <path d="M1578,1219 L1578,2438" id="path807" stroke="#FFFFFF"></path>
+                                            <path d="M0,1219 L1578,1219" id="path809" stroke="#FFFFFF"></path>
+                                            <path d="M0,2438 L0,3657" id="path811" stroke="#FFFFFF"></path>
+                                            <path d="M1578,2438 L1578,3657" id="path813" stroke="#FFFFFF"></path>
+                                            <path d="M0,2438 L1578,2438" id="path815" stroke="#FFFFFF"></path>
+                                            <path d="M0,3657 L0,4876" id="path817" stroke="#FFFFFF"></path>
+                                            <path d="M1578,3657 L1578,4876" id="path819" stroke="#FFFFFF"></path>
+                                            <path d="M0,3657 L1578,3657" id="path821" stroke="#FFFFFF"></path>
+                                            <path d="M0,4876 L0,6095" id="path823" stroke="#FFFFFF"></path>
+                                            <path d="M1578,4876 L1578,6095" id="path825" stroke="#FFFFFF"></path>
+                                            <path d="M0,4876 L1578,4876" id="path827" stroke="#FFFFFF"></path>
+                                            <path d="M0,6095 L0,7314" id="path829" stroke="#FFFFFF"></path>
+                                            <path d="M1578,6095 L1578,7314" id="path831" stroke="#FFFFFF"></path>
+                                            <path d="M0,6095 L1578,6095" id="path833" stroke="#FFFFFF"></path>
+                                            <path d="M0,7314 L0,8536" id="path835" stroke="#FFFFFF"></path>
+                                            <path d="M0,8536 L1578,8536" id="path837" stroke="#FFFFFF"></path>
+                                            <path d="M1578,7314 L1578,8536" id="path839" stroke="#FFFFFF"></path>
+                                            <path d="M0,7314 L1578,7314" id="path841" stroke="#FFFFFF"></path>
+                                        </g>
+                                    </g>
+                                    <g id="g843" transform="translate(3299.000000, 0.000000)" stroke-width="102" stroke="#00AE00">
+                                        <g id="id9">
+                                            <polygon id="path846" points="4953 6350 0 6350 0 0 9906 0 9906 6350"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="g848" transform="translate(17777.000000, 0.000000)" stroke-width="102" stroke="#00AE00">
+                                        <g id="id10">
+                                            <polygon id="path851" points="1778 6350 0 6350 0 0 3556 0 3556 6350"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="g853" transform="translate(13559.000000, 254.000000)" font-size="847" font-family="Helvetica" fill="#00AE00" font-weight="normal">
+                                        <g id="id11">
+                                            <text id="tspan862">
+                                                <tspan x="0" y="821">training set</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="g864" transform="translate(14401.000000, 7954.000000)" font-size="847" font-family="Helvetica" fill="#9966CC" font-weight="normal">
+                                        <g id="id12">
+                                            <text id="tspan873">
+                                                <tspan x="0" y="821">test set</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="g864" transform="translate(13841.000000, 6634.000000)" font-size="847" font-family="Helvetica" fill="#F6A623" font-weight="normal">
+                                        <g id="id12">
+                                            <text id="validation">
+                                                <tspan x="0" y="821">validation</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <g id="g875" transform="translate(3299.000000, 7954.000000)" stroke-width="102" stroke="#6B4794">
+                                        <g id="id13">
+                                            <polygon id="path878" points="4953 1350 0 1350 0 0 9906 0 9906 1350"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="g875" transform="translate(3299.000000, 6484.000000)" stroke-width="102" stroke="#F6A623">
+                                        <g id="id13">
+                                            <polygon id="path878" points="4953 1350 0 1350 0 0 9906 0 9906 1350"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="g880" transform="translate(17777.000000, 6484.000000)" stroke-width="102">
+                                        <g id="id14" transform="translate(0.000000, 1470.000000)" stroke="#6B4794">
+                                            <polygon id="path883" points="1778 1350 0 1350 0 0 3556 0 3556 1350"></polygon>
+                                        </g>
+                                        <g id="id14" stroke="#F6A623">
+                                            <polygon id="path883" points="1778 1350 0 1350 0 0 3556 0 3556 1350"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
